@@ -1,0 +1,14 @@
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.csprojAssemblyReference.cache
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.csproj.CoreCompileInputs.cache
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorAssemblyInfo.cache
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorAssemblyInfo.cs
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.AssemblyInfoInputs.cache
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.AssemblyInfo.cs
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.deps.json
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.runtimeconfig.json
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.runtimeconfig.dev.json
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.dll
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.pdb
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorTargetAssemblyInfo.cache
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.dll
+C:\Users\Val\Documents\Visual Studio 2017\Projects\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.pdb
